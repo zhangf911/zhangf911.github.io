@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quote on Hugo Themes</title>
+    <link>http://zhangf911.github.io/tags/quote/</link>
+    <description>Recent content in Quote on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Sebastian Pech</copyright>
+    <lastBuildDate>Sun, 25 Aug 2019 08:59:27 +0100</lastBuildDate>
+    
+	<atom:link href="http://zhangf911.github.io/tags/quote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Custom JS/CSS</title>
+      <link>http://zhangf911.github.io/2019/08/custom-js/css/</link>
+      <pubDate>Sun, 25 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/08/custom-js/css/</guid>
+      <description>Custom JS/CSS per page x</description>
+    </item>
+    
+    <item>
+      <title>Testseite - Deutsch</title>
+      <link>http://zhangf911.github.io/2019/08/testseite-deutsch/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/08/testseite-deutsch/</guid>
+      <description>Deutsche Testseite Fames sed morbi magnis euismod id blandit aliquam lacus sem rhoncus mauris dapibus pretium nisi. Dolor consequat odio metus nonummy eleifend condimentum pulvinar sociis tellus enim donec risus laoreet taciti lorem auctor. Urna aenean aliquet. Imperdiet. A mus faucibus.
+Posuere sagittis. Neque aptent rutrum elementum phasellus quam leo blandit eu feugiat volutpat, nec condimentum porta nulla feugiat duis mus commodo eget per Libero sit, rhoncus arcu class consequat. Eu mauris porttitor venenatis convallis.</description>
+    </item>
+    
+    <item>
+      <title>Theme Info</title>
+      <link>http://zhangf911.github.io/2019/08/theme-info/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/08/theme-info/</guid>
+      <description>Headline 2 The header image is automatically added if there is a file called *feature* or *cover*. The first wildcard is prefered over the second one. If there are multiple images the first one is used.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</description>
+    </item>
+    
+  </channel>
+</rss>

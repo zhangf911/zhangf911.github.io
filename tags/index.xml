@@ -1,14 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Hugo Themes</title>
     <link>http://zhangf911.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Sebastian Pech</copyright>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://zhangf911.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag 1</title>
+      <link>http://zhangf911.github.io/tags/tag-1/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/tag-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://zhangf911.github.io/tags/code/</link>
+      <pubDate>Sun, 25 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>http://zhangf911.github.io/tags/quote/</link>
+      <pubDate>Sun, 25 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://zhangf911.github.io/tags/test/</link>
+      <pubDate>Sun, 25 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aöäüß</title>
+      <link>http://zhangf911.github.io/tags/a%C3%B6%C3%A4%C3%BC%C3%9F/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/a%C3%B6%C3%A4%C3%BC%C3%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum</title>
+      <link>http://zhangf911.github.io/tags/lorem-ipsum/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table</title>
+      <link>http://zhangf911.github.io/tags/table/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>http://zhangf911.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>http://zhangf911.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>http://zhangf911.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>http://zhangf911.github.io/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>http://zhangf911.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>http://zhangf911.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://zhangf911.github.io/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/tags/index/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

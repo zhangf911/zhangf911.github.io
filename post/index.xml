@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Themes</title>
+    <link>http://zhangf911.github.io/post/</link>
+    <description>Recent content in Posts on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Sebastian Pech</copyright>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://zhangf911.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Test</title>
+      <link>http://zhangf911.github.io/2019/10/video-test/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/10/video-test/</guid>
+      <description>Post Header Show Video in header if privacy does not prevent this.
+Hugo and the General Data Protection Regulation (GDPR)&amp;nbsp;
+  </description>
+    </item>
+    
+    <item>
+      <title>Custom JS/CSS</title>
+      <link>http://zhangf911.github.io/2019/08/custom-js/css/</link>
+      <pubDate>Sun, 25 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/08/custom-js/css/</guid>
+      <description>Custom JS/CSS per page x</description>
+    </item>
+    
+    <item>
+      <title>Testseite - Deutsch</title>
+      <link>http://zhangf911.github.io/2019/08/testseite-deutsch/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/08/testseite-deutsch/</guid>
+      <description>Deutsche Testseite Fames sed morbi magnis euismod id blandit aliquam lacus sem rhoncus mauris dapibus pretium nisi. Dolor consequat odio metus nonummy eleifend condimentum pulvinar sociis tellus enim donec risus laoreet taciti lorem auctor. Urna aenean aliquet. Imperdiet. A mus faucibus.
+Posuere sagittis. Neque aptent rutrum elementum phasellus quam leo blandit eu feugiat volutpat, nec condimentum porta nulla feugiat duis mus commodo eget per Libero sit, rhoncus arcu class consequat. Eu mauris porttitor venenatis convallis.</description>
+    </item>
+    
+    <item>
+      <title>Theme Info</title>
+      <link>http://zhangf911.github.io/2019/08/theme-info/</link>
+      <pubDate>Sat, 17 Aug 2019 08:59:27 +0100</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/08/theme-info/</guid>
+      <description>Headline 2 The header image is automatically added if there is a file called *feature* or *cover*. The first wildcard is prefered over the second one. If there are multiple images the first one is used.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://zhangf911.github.io/2019/03/markdown-syntax-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/03/markdown-syntax-guide/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://zhangf911.github.io/2019/03/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/03/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://zhangf911.github.io/2019/03/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://zhangf911.github.io/2019/03/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
